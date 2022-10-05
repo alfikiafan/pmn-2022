@@ -1,2 +1,4 @@
-# PMN-2022
-Tugas Mata Kuliah Praktikum Metode Numerik
+## Mata Kuliah Praktikum Metode Numerik
+### Repositori Praktikum
+- Nama: [Alfiki Diastama Afan Firdaus](http://github.com/alfikiafan)
+- Kelas: A
